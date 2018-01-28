@@ -27,5 +27,5 @@ En este entrenamiento se evitaran los ejemplos con código fuente ya que el uso 
 
 ## Developed by
 
-* Enzo Lizama, Mobile Trainer @HackSpacePeru
+* Enzo Lizama, Mobile Trainer @HackSpacePeru.
 
