@@ -1,4 +1,5 @@
 # Bienvenido al entrenamiento online de HackSpace Perú - ANDROID
+[![forthebadge](http://forthebadge.com/images/badges/built-for-android.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 <div align="center">
 
 ![Mobile](http://hanshavin.github.io/HackSpace-Developers/img/logo.png)
