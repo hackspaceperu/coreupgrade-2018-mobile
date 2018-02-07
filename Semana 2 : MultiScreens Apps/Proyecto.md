@@ -21,3 +21,7 @@ Investigar e implementar :
 
 **NO** ES UN MODELO, PROTOTIPO O DISEÑO A SEGUIR. El estilo, diseño, colores y toda la implementacion queda a total creatividad del postulante. 
 ## Do your best!!! :punch: :muscle: :iphone:
+
+## Súbelo a tu Repositorio de Github
+
+Finalmente solo debes enviar el link de tu repositorio de Github con el reto solucionado en el formulario que está disponible cuando te logueas en [CoreUpgrade](https://www.hackspace.la).
